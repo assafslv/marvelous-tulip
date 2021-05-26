@@ -8,7 +8,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >
-      # Refresh your home, welcome spring!
+      # Welcome Spring! 20% OFF your first plant!
 
 
       Don't forget to add your Snipcart API key to the site's configuration to
