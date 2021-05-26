@@ -8,7 +8,7 @@ sections:
     background_image: images/plant3-lg.jpg
     background_image_opacity: 65
     content: >
-      # Time to refresh your home!  
+      # Spring sale! Take 20% OFF
 
 
       Don't forget to add your Snipcart API key to the site's configuration to
